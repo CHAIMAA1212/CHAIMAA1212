@@ -1,9 +1,12 @@
 # 💫 About Me:
-i'm cuurently first year student in big data<br>
+👋 Hi! I'm Aida Hamir, a passionate Big Data enthusiast and first-year student exploring the world of data and technology. I'm currently diving into projects involving HTML & CSS to enhance my skills and build a strong portfolio for future opportunities.<br><br>💡 My goal is to become a skilled Big Data Engineer while showcasing my creativity through technical and design projects.<br><br>🚀 Interests:<br><br>Big Data and Analytics<br><br>Technical problem-solving<br><br>Web development and data visualization<br><br>Continuous learning<br><br>📫 Let’s connect! Whether you’re looking to collaborate or share advice, feel free to reach out.<br><br>
 
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chaimaa-amar/) 
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=CHAIMAA1212&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CHAIMAA1212&theme=dark&hide_border=false)<br/>
